@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,blizzard.com
 # > Duolingo
 USER-AGENT,Duolingo*
 DOMAIN-KEYWORD,duolingo
-DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
 
 # > Line
@@ -109,8 +108,6 @@ DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,blogspot.hk
-DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,books.com.tw
 DOMAIN-SUFFIX,boomtrain.com
@@ -235,7 +232,6 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gunsamerica.com
 DOMAIN-SUFFIX,gvt0.com
@@ -688,8 +684,6 @@ DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
 
 # > exception
-DOMAIN-SUFFIX,wheel-size.cn
-DOMAIN-SUFFIX,chalungu.cn
 
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
@@ -825,7 +819,6 @@ DOMAIN-SUFFIX,youtube.com.es
 DOMAIN-SUFFIX,youtube.com.gh
 DOMAIN-SUFFIX,youtube.com.gr
 DOMAIN-SUFFIX,youtube.com.gt
-DOMAIN-SUFFIX,youtube.com.hk
 DOMAIN-SUFFIX,youtube.com.hn
 DOMAIN-SUFFIX,youtube.com.hr
 DOMAIN-SUFFIX,youtube.com.jm
@@ -870,7 +863,6 @@ DOMAIN-SUFFIX,youtube.ge
 DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube.gr
 DOMAIN-SUFFIX,youtube.gt
-DOMAIN-SUFFIX,youtube.hk
 DOMAIN-SUFFIX,youtube.hr
 DOMAIN-SUFFIX,youtube.hu
 DOMAIN-SUFFIX,youtube.ie
@@ -1075,7 +1067,6 @@ DOMAIN-SUFFIX,cryptofees.info
 DOMAIN-SUFFIX,ethereum-magicians.org
 DOMAIN-SUFFIX,vitalik.ca
 DOMAIN-SUFFIX,ethfans.org
-DOMAIN-SUFFIX,ethereum.cn
 DOMAIN-SUFFIX,ethereum.stackexchange.com
 DOMAIN-SUFFIX,etherscan.com
 DOMAIN-SUFFIX,parity.io
