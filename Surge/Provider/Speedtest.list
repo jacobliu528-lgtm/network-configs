@@ -7,5 +7,15 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN,speed.dler.io
 
+# > Speedtest Supplemental
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,speedtest.net.cn
+DOMAIN-SUFFIX,cn2giao.com
+DOMAIN-SUFFIX,testmy.net
+DOMAIN-SUFFIX,speedcheck.org
+DOMAIN-SUFFIX,bandwidthplace.com
+DOMAIN-SUFFIX,nperf.com
+
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
