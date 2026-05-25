@@ -374,7 +374,6 @@ DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,popo.tw
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,prfct.co
 DOMAIN-SUFFIX,proxfree.com
 DOMAIN-SUFFIX,psiphon3.com
@@ -423,7 +422,6 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sourceforge.net
-DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,squarespace.com
@@ -551,7 +549,6 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vimperator.org
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,visibletweets.com
-DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,vocativ.com
@@ -1507,17 +1504,6 @@ DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tospotify.com
 
-# > ViuTV
-USER-AGENT,ViuTV*
-DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwplayer.com
-DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,viu.tv
-DOMAIN-SUFFIX,viu.now.com
-
 # > WeTV
 USER-AGENT,WeTV*
 DOMAIN-SUFFIX,wetv.vip
@@ -1526,19 +1512,6 @@ DOMAIN-SUFFIX,wetvinfo.com
 # > YouTube Music
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
-
-# > encoreTVB
-USER-AGENT,encoreTVB*
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN,content.jwplatform.com
-DOMAIN,videos-f.jwpsrv.com
-
-# > myTV SUPER
-USER-AGENT,mytv*
-DOMAIN-KEYWORD,nowtv100
-DOMAIN-KEYWORD,rthklive
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
 
 # > Google FCM
 DOMAIN,alt1-mtalk.google.com

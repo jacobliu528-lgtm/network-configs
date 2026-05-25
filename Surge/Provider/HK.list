@@ -1,1 +1,29 @@
+# > Hong Kong
 DOMAIN-SUFFIX,cuniq.com
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,sowers.org.hk
+
+# > ViuTV
+DOMAIN-SUFFIX,viu.com
+USER-AGENT,ViuTV*
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.now.com
+
+# > encoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,content.jwplatform.com
+DOMAIN,videos-f.jwpsrv.com
+
+# > myTV SUPER
+USER-AGENT,mytv*
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
