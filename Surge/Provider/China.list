@@ -9035,4 +9035,10 @@ IP-CIDR,59.111.181.60/32,no-resolve
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
 
-# > Youku
+# > Douyin
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
